@@ -5,9 +5,9 @@
  </a>
 </p>
 <div align="center">
+<img border-radius: 15px src= "https://i.imgur.com/20210902_144232.jpg" width="200" height="200"/>
   <p align="center">
-<img border-radius: 15px src= "https://i.imgur.com/20210902_144232.jpg" width="100" height="100"/>
-</p>
+</p
  <p align="center">
 <a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
