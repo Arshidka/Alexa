@@ -5,7 +5,7 @@
  </a>
 </p>
 <div align="center">
-<img border-radius: 15px src= "https://i.imgur.com/20210902_144232.jpg" width="200" height="200"/>
+<img border-radius: 15px src= "https://i.imgur.com/IMG-20210901-WA0003.png" width="200" height="200"/>
   <p align="center">
 </p
  <p align="center">
